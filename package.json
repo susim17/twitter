@@ -1,0 +1,26 @@
+{
+  "name": "twitter-example",
+  "version": "1.0.0",
+  "description": "example of twitter consumming app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azrrael-exe/twitter-example.git"
+  },
+  "keywords": [
+    "twitter",
+    "sda"
+  ],
+  "author": "vcamargo.e@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azrrael-exe/twitter-example/issues"
+  },
+  "homepage": "https://github.com/Azrrael-exe/twitter-example#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
